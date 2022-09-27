@@ -1,4 +1,4 @@
-# Curl-SMS (Orange/SOSH) - Script Linux
+## Curl-SMS (Orange/SOSH) - Script Windows/Linux
 Envoi SMS (Orange/SOSH) avec l'outil Curl.
 - Besoin de la librairie [Curl](https://github.com/curl)
 - Forfait Orange/SOSH
