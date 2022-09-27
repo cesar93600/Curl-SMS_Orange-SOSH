@@ -1,2 +1,5 @@
 # Curl-SMS_Orange-SOSH
-Envoi SMS via Curl
+# Curl https://github.com/curl
+# Nécessite un forfait Orange/SOSH
+
+Envoi SMS (Orange/SOSH) via Curl
