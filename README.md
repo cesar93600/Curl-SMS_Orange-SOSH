@@ -31,6 +31,8 @@ wget "https://raw.githubusercontent.com/cesar93600/Curl-SMS_Orange-SOSH/main/Cur
 
 ### Gestion de la stratégie d’exécution avec PowerShell [Source Microsoft](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2)
 ```
+ # Lister les stratégies
 Get-ExecutionPolicy -List
+ # Autoriser l'exécution
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
