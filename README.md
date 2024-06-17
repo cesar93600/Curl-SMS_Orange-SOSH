@@ -1,5 +1,7 @@
-# Curl-SMS (Orange/SOSH) - Script Windows/Linux
-Envoi de SMS (Orange/SOSH) via l'outil Curl.
+~~Curl-SMS (Orange/SOSH) - Script Windows/Linux~~
+~~Envoi de SMS (Orange/SOSH) via l'outil Curl.~~
+
+## Service fermé !
 
 ### Nécessite :
 - Curl, Wget
@@ -36,3 +38,4 @@ Get-ExecutionPolicy -List
  # Autoriser l'exécution
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+~~
